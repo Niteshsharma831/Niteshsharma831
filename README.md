@@ -1,5 +1,7 @@
 # 💫 About Me:
-Full Stack Developer (MERN) skilled in building responsive and scalable web applications using MongoDB, Express.js, React, and Node.js. Focused on developing efficient backend systems and dynamic frontend applications.<br>
+I am a passionate Full Stack Developer with strong skills in building modern web applications using the MERN stack (MongoDB, Express.js, React, Node.js). I have 6 months of internship experience and 1.6+ years of hands-on experience in developing real-world, SaaS, and custom web applications.
+
+I have built responsive, user-friendly, and scalable applications with a strong focus on both frontend and backend development. My work includes SaaS-based platforms, custom web solutions, and full-stack projects with features like authentication, dashboards, APIs, and payment integration.<br>
 
 
 ## 🌐 Socials:
