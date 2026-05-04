@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Developer (MERN) skilled in building responsive and scalable <br>web applications using MongoDB, Express.js, React, and Node.js. <br>Focused on developing efficient backend systems and dynamic<br> frontend applications.<br>
+Full Stack Developer (MERN) skilled in building responsive and scalable web applications using MongoDB, Express.js, React, and Node.js. Focused on developing efficient backend systems and dynamic frontend applications.<br>
 
 
 ## 🌐 Socials:
